@@ -1,0 +1,8 @@
+01 PICK-RECORD.
+          05 PICK-ORDER-ID PIC X(12).
+          05 PICK-SKU PIC X(12).
+          05 PICK-WAREHOUSE PIC X(6).
+          05 PICK-QTY PIC S9(7)V99 COMP-3.
+          05 PICK-STATUS PIC X(2).
+          05 PICK-TIMESTAMP PIC X(26).
+          05 FILLER PIC X(56).

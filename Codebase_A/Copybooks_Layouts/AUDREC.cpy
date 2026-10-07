@@ -1,0 +1,5 @@
+01 AUDIT-RECORD.
+          05 AUD-PROGRAM PIC X(8).
+          05 AUD-EVENT PIC X(12).
+          05 AUD-TIME PIC 9(8).
+          05 AUD-MESSAGE PIC X(80).

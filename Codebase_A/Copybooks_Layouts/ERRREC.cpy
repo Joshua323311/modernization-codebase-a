@@ -1,0 +1,5 @@
+01 ERROR-RECORD.
+          05 ERR-PROGRAM PIC X(8).
+          05 ERR-CODE PIC X(8).
+          05 ERR-MESSAGE PIC X(80).
+          05 ERR-SOURCE-KEY PIC X(20).

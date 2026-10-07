@@ -1,0 +1,9 @@
+01 TRANSACTION-RECORD.
+          05 TXN-ACCT-NO PIC X(12).
+          05 TXN-ID PIC X(8).
+          05 TXN-DR-CR PIC X.
+          05 TXN-AMOUNT PIC S9(9)V99 COMP-3.
+          05 TXN-DATE PIC 9(8).
+          05 TXN-CODE PIC X(4).
+          05 TXN-DESCRIPTION PIC X(40).
+          05 FILLER PIC X(21).

@@ -1,0 +1,241 @@
+{
+  "codebase": "A",
+  "file_count_before_manifest": 47,
+  "files": [
+    {
+      "path": "Cobol Compile Listings/ACCTPST.lst",
+      "size": 1186,
+      "sha256": "559d87b1d847e224afc8cf81ee07b0e6b8c9b330f6ea1baaa8a0f29d31f89f83"
+    },
+    {
+      "path": "Cobol Compile Listings/AUDLOG.lst",
+      "size": 639,
+      "sha256": "68f3b91f35229012054bafa82d5529b599ea10da3112b25693346258b2621be4"
+    },
+    {
+      "path": "Cobol Compile Listings/BALSUM.lst",
+      "size": 688,
+      "sha256": "d827460421423b6c2b950f7896fda36331d5bf254917cf6d8c8a9dcc8cc5453f"
+    },
+    {
+      "path": "Cobol Compile Listings/BATCTL.lst",
+      "size": 775,
+      "sha256": "aa422c0acfd41d6ced708c6cd52f068ed88414ef3b324f174d3d07c1c81abc59"
+    },
+    {
+      "path": "Cobol Compile Listings/CUSTUPD.lst",
+      "size": 1193,
+      "sha256": "be864cf04f6d468679fd660592da9df27120927663f872d51c15302177426764"
+    },
+    {
+      "path": "Cobol Compile Listings/CUSTVAL.lst",
+      "size": 784,
+      "sha256": "3e452cd7634dfc2acf41d1ef9d771af139ec75c24618d570e7b827763b593a3a"
+    },
+    {
+      "path": "Cobol Compile Listings/DATEVAL.lst",
+      "size": 632,
+      "sha256": "d7af64bb476d96820ac21e09c19443e3d7882eb5b37a606417b819b66754db0d"
+    },
+    {
+      "path": "Cobol Compile Listings/TXNVAL.lst",
+      "size": 735,
+      "sha256": "0335478bd7593e5d6b48d8814500cdfaa6c5d7035f4de2a597ba9df0aa55b146"
+    },
+    {
+      "path": "Cobol programs/ACCTPST.cbl",
+      "size": 922,
+      "sha256": "e9603bac6889bdc153c812ddb46a81942790af2869a42238006fd739ca7d15b5"
+    },
+    {
+      "path": "Cobol programs/AUDLOG.cbl",
+      "size": 396,
+      "sha256": "1fe6b79ca51242d598ea53ebaa2ec61bb1437b0ca3b48ed86340da2edb7793d6"
+    },
+    {
+      "path": "Cobol programs/BALSUM.cbl",
+      "size": 436,
+      "sha256": "97ad3eb8d257d6d10713470a46a68d7c13ba201267f32ea0bc46e5895e2c044a"
+    },
+    {
+      "path": "Cobol programs/BATCTL.cbl",
+      "size": 497,
+      "sha256": "b22eeb4dc77f92ad41456d4065648cbd614f54b670fb55e7ac00a6f7ee493e90"
+    },
+    {
+      "path": "Cobol programs/CUSTUPD.cbl",
+      "size": 937,
+      "sha256": "c1a9007de82f3e48b8b9c22c31bb04f780499173c14106d00020119fc8ffae38"
+    },
+    {
+      "path": "Cobol programs/CUSTVAL.cbl",
+      "size": 536,
+      "sha256": "45ef6731ee1eefa2c5d6a5915472666d70b329bbfafeeb3ede66f451445701f7"
+    },
+    {
+      "path": "Cobol programs/DATEVAL.cbl",
+      "size": 386,
+      "sha256": "801ccc060381ba9cc824dfede276be2eeffe915f5c16daede8651ad1a3ea8db2"
+    },
+    {
+      "path": "Cobol programs/FEECLAC.cbl",
+      "size": 580,
+      "sha256": "13ec1ef6262f4064a71d421ce95e2165da0720f8971373d92be0bd982f54cbdd"
+    },
+    {
+      "path": "Cobol programs/RPTGEN.cbl",
+      "size": 645,
+      "sha256": "4f26bed791e18ca1592a3bfc03e369eb0e36d7b5a9a17fb608d84b33b65a36ce"
+    },
+    {
+      "path": "Cobol programs/TXNVAL.cbl",
+      "size": 483,
+      "sha256": "ea255b77fbca872a504a498f33e5ecf6fe7c3d7dcf944381edf47286e3885d17"
+    },
+    {
+      "path": "Copybooks_Layouts/ACCTREC.cpy",
+      "size": 320,
+      "sha256": "e54c0e469539e426ec40941650ad98c0c7a1c1070f47a9f9ba9118853fcc2111"
+    },
+    {
+      "path": "Copybooks_Layouts/AUDREC.cpy",
+      "size": 154,
+      "sha256": "8be111a8025ee95a7180048412891d0e53b692cfdc336d1d7a29c84a872c2a09"
+    },
+    {
+      "path": "Copybooks_Layouts/CODETBL.cpy",
+      "size": 153,
+      "sha256": "f8081bc4e56ac1580bbac4b84f83d9c6952138b93d42426a7270ac93381cc700"
+    },
+    {
+      "path": "Copybooks_Layouts/CUSTREC.cpy",
+      "size": 275,
+      "sha256": "feae179f2cb786cc78deacce777b905588b4a1f3a793ffac7d061d675545804e"
+    },
+    {
+      "path": "Copybooks_Layouts/DATEPARM.cpy",
+      "size": 105,
+      "sha256": "4940ca96ae4881ef49d212b1cacc5793783a3a88f083b3fdb9240d06b7a3a0d1"
+    },
+    {
+      "path": "Copybooks_Layouts/ERRREC.cpy",
+      "size": 159,
+      "sha256": "15daf99ae1a63e73b40c87907ebf7009e923fd95c00d7f8f5ed88222ac02cca1"
+    },
+    {
+      "path": "Copybooks_Layouts/RESTART.cpy",
+      "size": 167,
+      "sha256": "1d121d2cb1bbc43a8a3d88dce935120c04bd529fbe0e265da9c03bc455662b76"
+    },
+    {
+      "path": "Copybooks_Layouts/RPTREC.cpy",
+      "size": 153,
+      "sha256": "32566927bcc66dd9a6d756b4dc2c33e12ae63071d91f1c20a979edf6bfcfa952"
+    },
+    {
+      "path": "Copybooks_Layouts/SUMREC.cpy",
+      "size": 261,
+      "sha256": "3f0602650f0ffdc9b184e38b6a064955ac1509a08bbc62f6f3d13690c287f1ca"
+    },
+    {
+      "path": "Copybooks_Layouts/TXNREC.cpy",
+      "size": 299,
+      "sha256": "4e9fb4edb995352f2348d7905063830accf69a837e58b9fe2603e76667e26723"
+    },
+    {
+      "path": "Datacards/DAILYCTL.txt",
+      "size": 74,
+      "sha256": "475ed5ab12fd395b6e29e02c200c67375c79a93366cf142d6cda80a0dd06059d"
+    },
+    {
+      "path": "Datacards/RESTARTC.txt",
+      "size": 56,
+      "sha256": "eb99c784ee902e3f016378daba47af717f3f04643f1ea41b431401a9386e8c25"
+    },
+    {
+      "path": "Datacards/SORTBAL.txt",
+      "size": 46,
+      "sha256": "d022b6478021f48a21618e4f3971c6fa472566c1b1ebb6031e68485bb03cff91"
+    },
+    {
+      "path": "JCL/BALRPT.jcl",
+      "size": 224,
+      "sha256": "35b8f7eca577f3d0c4687fc61379c1ad5c3d668c94e0dffc1edb722362641e14"
+    },
+    {
+      "path": "JCL/CUSTMAINT.jcl",
+      "size": 227,
+      "sha256": "1bcd3888a143916d98ba3c060bc79f7048f2d9679f4c7e1298546ffb0f16918f"
+    },
+    {
+      "path": "JCL/DAILYPOST.jcl",
+      "size": 278,
+      "sha256": "2eb612a165196cafb2be8d5c8f493fbe59f63a626dbcf2d2cad07b4d813b91fd"
+    },
+    {
+      "path": "JCL/RESTART.jcl",
+      "size": 163,
+      "sha256": "1546c99a58815588b8d777269f8d9338da80658c4d237e5e9b2092b734527253"
+    },
+    {
+      "path": "Procedures/CUSTPROC.prc",
+      "size": 86,
+      "sha256": "4f7555438d23661eda3926e1f1cb063f891fbbc696590a6ee8779980dca40f28"
+    },
+    {
+      "path": "Procedures/POSTPROC.prc",
+      "size": 125,
+      "sha256": "37f3d5a869f3af02f8155d8cb9172ef7edff492022a1ab73454738c1f69f0672"
+    },
+    {
+      "path": "mc0205_databricks_target/ddl/account.sql",
+      "size": 215,
+      "sha256": "a4bd369f88c21555a7cb32c5bb4c4c18bed97a8e7e276faac3151d4c3b8e5371"
+    },
+    {
+      "path": "mc0205_databricks_target/ddl/audit_event.sql",
+      "size": 131,
+      "sha256": "c2c38070d4760500845518d6c3399de6cd36778931e74b7b9db47a8f5957607e"
+    },
+    {
+      "path": "mc0205_databricks_target/ddl/customer.sql",
+      "size": 184,
+      "sha256": "d1004edcebc76f873aaa442b5619e7a4eacf4567260cf1f43046008a6b5cb432"
+    },
+    {
+      "path": "mc0205_databricks_target/ddl/daily_summary.sql",
+      "size": 186,
+      "sha256": "1fa0697d278749d6e3194eb5875960869c5f931fbfbafa6e9513960b65350b03"
+    },
+    {
+      "path": "mc0205_databricks_target/ddl/transaction.sql",
+      "size": 214,
+      "sha256": "66a4d27352872d597f5a62dc38d8c82cc2367af0fa7399e887263a2ef195ae1f"
+    },
+    {
+      "path": "mc0205_databricks_target/notebooks/01_customer_maintenance.py",
+      "size": 129,
+      "sha256": "4d488a4c653f15b2efda98243344aa748d84c28f1ca05f3112c8e2b9f665f45e"
+    },
+    {
+      "path": "mc0205_databricks_target/notebooks/02_daily_posting.py",
+      "size": 137,
+      "sha256": "4a9129eab0372fc8403f11bbbb6ba23475f8714756f2cef1dd47bb47bc0831d0"
+    },
+    {
+      "path": "mc0205_databricks_target/src/customer_validation.py",
+      "size": 151,
+      "sha256": "7275f27e955d02bfcce5212d9def999b21262d022e15a632d11822c4c2dcfe03"
+    },
+    {
+      "path": "mc0205_databricks_target/src/date_utils.py",
+      "size": 129,
+      "sha256": "b33680b632106d592fe40ef4dfcf916096cce32c3118ead9d95b2f62280d75a4"
+    },
+    {
+      "path": "mc0205_databricks_target/src/transaction_rules.py",
+      "size": 230,
+      "sha256": "d971b7d5c8ac4e5afafbbf9bc25556c46eef365edce29c2ddfd61ff12dc8d868"
+    }
+  ]
+}

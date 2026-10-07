@@ -1,0 +1,8 @@
+01 CUSTOMER-RECORD.
+          05 CUST-ID PIC X(10).
+          05 CUST-NAME PIC X(40).
+          05 CUST-STATUS PIC X.
+          05 CUST-OPEN-DATE PIC 9(8).
+          05 CUST-CREDIT-LIMIT PIC S9(9)V99 COMP-3.
+          05 CUST-ADDRESS PIC X(50).
+          05 FILLER PIC X(5).
