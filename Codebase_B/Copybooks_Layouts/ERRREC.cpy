@@ -1,5 +1,0 @@
-01 ERROR-RECORD.
-          05 ERROR-PROGRAM PIC X(8).
-          05 ERROR-CODE PIC X(8).
-          05 ERROR-MESSAGE PIC X(80).
-          05 ERROR-KEY PIC X(20).

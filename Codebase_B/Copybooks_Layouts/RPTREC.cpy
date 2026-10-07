@@ -1,5 +1,0 @@
-01 REPORT-PAYLOAD.
-          05 RPT-TITLE PIC X(40).
-          05 RPT-RUN-DATE PIC X(10).
-          05 RPT-PAGE PIC 9(4).
-          05 RPT-LINE PIC X(78).

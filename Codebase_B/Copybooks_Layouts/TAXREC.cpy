@@ -1,8 +1,0 @@
-01 TAX-RATE-RECORD.
-          05 TAX-COUNTRY PIC X(3).
-          05 TAX-REGION PIC X(5).
-          05 TAX-RATE PIC V9999 COMP-3.
-          05 TAX-EFFECTIVE-DATE PIC 9(8).
-          05 TAX-EXPIRE-DATE PIC 9(8).
-          05 TAX-STATUS PIC X.
-          05 FILLER PIC X(25).
